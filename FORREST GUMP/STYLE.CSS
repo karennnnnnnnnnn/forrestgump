@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
+html,body {
+  background-image: url("599244_forrest-gump-wallpapers-high-quality_1920x1080_h.png");
+  width: 100%;
+  height:100%;
+  margin:0;
+  font-family: "Playfair Display" 
+  background-size: cover;
+}
+h1{color:white}
